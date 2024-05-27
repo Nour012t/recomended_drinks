@@ -1,0 +1,599 @@
+UserId,ProductId,Rating,time,price,ProductName,nutritional _data,Recommended_Product,Price
+1,1,5,2/19/2024 7:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+2,2,3,2/20/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Nescaffee black,15
+3,3,2,2/21/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+5,4,1,2/22/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+6,5,4,2/23/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+7,6,2,2/24/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+8,1,3,2/25/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+9,2,1,2/26/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Tea,10
+10,3,5,2/27/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+11,4,4,2/28/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+12,5,5,2/29/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+15,6,3,3/1/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Tea_Milk,15
+38,1,2,3/2/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+25,2,1,3/3/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Nescafee,20
+98,3,5,3/4/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Tea,10
+26,4,5,3/5/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+55,5,3,3/6/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Nescaffee black,15
+22,6,2,3/7/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+55,1,2,3/8/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+16,2,3,3/9/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+78,3,1,3/10/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+98,4,5,3/11/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+36,5,1,3/12/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+25,6,2,3/13/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+2,1,3,3/14/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+65,2,4,3/15/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Tea_Milk,15
+98,3,5,3/16/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Tea,10
+999,4,5,3/17/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+888,5,4,3/18/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+777,6,3,3/19/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+456,1,2,3/20/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+321,2,1,3/21/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+123,3,5,3/22/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+3336,4,3,3/23/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+332,5,2,3/24/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+223,6,1,3/25/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescaffee black,15
+554,1,4,3/26/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+445,2,5,3/27/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+100,3,5,3/28/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Tea,10
+101,4,5,3/29/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea_Milk,15
+123,5,4,3/30/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Cacao_Milk,20
+201,6,1,3/31/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+503,1,2,4/1/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+22,2,3,4/2/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Nescafee,20
+4,3,4,4/3/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+9,4,5,4/4/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+8,5,3,4/5/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Nescaffee black,15
+3,6,2,4/6/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+5,1,1,4/7/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Tea,10
+1,2,4,4/8/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Nescaffee black,15
+22,3,4,4/9/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+5,4,5,4/10/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+65,5,1,4/11/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+56,6,2,4/12/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+45,1,3,4/13/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+46,2,4,4/14/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Tea,10
+64,3,5,4/15/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Tea,10
+88,4,5,4/16/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+99,5,4,4/17/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Cacao_Milk,20
+135,6,3,4/18/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+74,1,2,4/19/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+96,2,1,4/20/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Nescafee,20
+65,3,1,4/21/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Tea_Milk,15
+78,4,2,4/22/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Cacao_Milk,20
+15,5,3,4/23/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+35,6,3,4/24/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Tea_Milk,15
+87,1,5,4/25/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+987,2,4,4/26/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+741,3,1,4/27/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+147,4,2,4/28/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+123,5,3,4/29/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Cacao_Milk,20
+456,6,4,4/30/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescaffee black,15
+654,1,5,5/1/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+789,2,5,5/2/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+987,3,4,5/3/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao,15
+258,4,3,5/4/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Nescafee,20
+852,5,2,5/5/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+528,6,1,5/6/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+582,1,1,5/7/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+369,2,4,5/8/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+963,3,5,5/9/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+693,4,2,5/10/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+639,5,3,5/11/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+645,6,3,5/12/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+978,1,4,5/13/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+823,2,5,5/14/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+579,3,2,5/15/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+320,4,1,5/16/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+220,5,3,5/17/2024 10:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+210,6,5,5/18/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+120,1,1,5/19/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+310,2,2,5/20/2024 10:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Tea,10
+301,3,3,5/21/2024 10:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Nescaffee black,15
+125,4,4,5/22/2024 10:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea_Milk,15
+658,5,5,5/23/2024 17:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+602,6,4,5/24/2024 10:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+149,1,3,5/25/2024 10:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+941,2,2,5/26/2024 15:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+90,3,5,5/27/2024 7:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+30,4,2,5/28/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+31,1,1,5/29/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+32,2,2,5/30/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+33,3,3,5/31/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+34,4,4,6/1/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+35,5,5,6/2/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+36,6,5,6/3/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Tea_Milk,15
+37,1,5,6/4/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+38,2,4,6/5/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Nescaffee black,15
+39,3,4,6/6/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+40,4,2,6/7/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+41,5,1,6/8/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+42,6,3,6/9/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+43,1,5,6/10/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+44,2,4,6/11/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+45,3,2,6/12/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Nescaffee black,15
+46,4,1,6/13/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+47,5,3,6/14/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+48,6,3,6/15/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+49,1,5,6/16/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+50,2,4,6/17/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+51,3,2,6/18/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+52,4,1,6/19/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+53,5,5,6/20/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+54,6,4,6/21/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+55,1,1,6/22/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+56,2,2,6/23/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Nescafee,20
+57,3,3,6/24/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+58,4,4,6/25/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+59,5,5,6/26/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+60,6,3,6/27/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+61,1,2,6/28/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+62,2,1,6/29/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+63,3,5,6/30/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+64,4,4,7/1/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+65,5,1,7/2/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+66,6,1,7/3/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+67,1,2,7/4/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+68,2,3,7/5/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+69,3,3,7/6/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+70,4,2,7/7/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+71,5,1,7/8/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+72,6,4,7/9/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+73,1,5,7/10/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+74,2,5,7/11/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Nescaffee black,15
+75,3,4,7/12/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+76,4,4,7/13/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+77,5,1,7/14/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+78,6,1,7/15/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+79,1,2,7/16/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+80,2,3,7/17/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+81,3,5,7/18/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+82,4,4,7/19/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+83,5,1,7/20/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+84,6,2,7/21/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+85,1,3,7/22/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+86,2,4,7/23/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+87,3,5,7/24/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Nescaffee black,15
+88,4,5,7/25/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+89,5,4,7/26/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+90,6,1,7/27/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+91,1,2,7/28/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+92,2,3,7/29/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+93,3,5,7/30/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+94,4,4,7/31/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+95,5,1,8/1/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+96,6,3,8/2/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+97,1,1,8/3/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+98,2,4,8/4/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Tea,10
+99,3,1,8/5/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+100,4,4,8/6/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+101,5,1,8/7/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+102,6,4,8/8/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+103,1,2,8/9/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+104,2,5,8/10/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+105,3,2,8/11/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+106,4,5,8/12/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+107,5,2,8/13/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+108,6,5,8/14/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+109,1,5,8/15/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+110,2,3,8/16/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+111,3,3,8/17/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+112,4,2,8/18/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+113,5,3,8/19/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+114,6,3,8/20/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+115,1,2,8/21/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+116,2,2,8/22/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+117,3,3,8/23/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+118,4,5,8/24/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+119,5,1,8/25/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+120,6,3,8/26/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescaffee black,15
+121,1,4,8/27/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+122,2,2,8/28/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+123,3,1,8/29/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+124,4,3,8/30/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+125,5,2,8/31/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+126,6,5,9/1/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+127,1,5,9/2/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+128,2,2,9/3/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+129,3,3,9/4/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+130,4,5,9/5/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+131,5,1,9/6/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+132,6,3,9/7/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+133,1,4,9/8/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+134,2,2,9/9/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+135,3,3,9/10/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+136,4,5,9/11/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+137,5,1,9/12/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+138,6,3,9/13/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+139,1,4,9/14/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+140,2,2,9/15/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+141,3,3,9/16/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+142,4,5,9/17/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+143,5,1,9/18/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+144,6,3,9/19/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+145,1,4,9/20/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+146,2,1,9/21/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+147,3,2,9/22/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Tea,10
+148,4,3,9/23/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+149,5,5,9/24/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Nescaffee black,15
+150,6,4,9/25/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+151,1,2,9/26/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+152,2,1,9/27/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+153,3,3,9/28/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+154,4,2,9/29/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+155,5,5,9/30/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+156,6,4,10/1/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+157,1,1,10/2/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+158,2,2,10/3/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+159,3,3,10/4/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+160,4,5,10/5/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+161,5,4,10/6/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+162,6,1,10/7/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+163,1,2,10/8/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+164,2,3,10/9/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+165,3,5,10/10/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+166,4,4,10/11/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+167,5,1,10/12/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+168,6,2,10/13/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+169,1,3,10/14/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+170,2,4,10/15/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+171,3,5,10/16/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+172,4,4,10/17/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+173,5,1,10/18/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+174,6,2,10/19/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+175,1,3,10/20/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+176,2,5,10/21/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+177,3,4,10/22/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+178,4,1,10/23/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+179,5,2,10/24/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+180,6,3,10/25/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+181,1,5,10/26/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+182,2,4,10/27/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+183,3,4,10/28/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+184,4,5,10/29/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+185,5,2,10/30/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+186,6,3,10/31/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+187,1,1,11/1/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+188,2,2,11/2/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+189,3,5,11/3/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+190,4,4,11/4/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+191,5,1,11/5/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+192,6,3,11/6/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+193,1,2,11/7/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+194,2,5,11/8/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+195,3,4,11/9/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+196,4,1,11/10/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+197,5,2,11/11/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+198,6,5,11/12/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+199,1,4,11/13/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+200,2,1,11/14/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+201,3,3,11/15/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+202,4,2,11/16/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+203,5,5,11/17/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+204,6,4,11/18/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+205,1,1,11/19/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+206,2,2,11/20/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+207,3,3,11/21/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+208,4,5,11/22/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+209,5,4,11/23/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+210,6,5,11/24/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+211,1,2,11/25/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+212,2,1,11/26/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+213,3,3,11/27/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+214,4,4,11/28/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+215,5,2,11/29/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+216,6,3,11/30/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+217,1,5,12/1/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+218,2,5,12/2/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+219,3,4,12/3/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+220,4,2,12/4/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea_Milk,15
+221,5,3,12/5/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+222,6,5,12/6/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+223,1,5,12/7/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+224,2,4,12/8/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+225,3,2,12/9/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+226,4,5,12/10/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+227,5,4,12/11/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+228,6,1,12/12/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+229,1,2,12/13/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+230,2,3,12/14/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+231,3,5,12/15/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+232,4,4,12/16/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+233,5,1,12/17/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+234,6,2,12/18/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+235,1,3,12/19/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+236,2,5,12/20/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+237,3,4,12/21/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+238,4,1,12/22/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+239,5,2,12/23/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+240,6,3,12/24/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+241,1,2,12/25/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+242,2,1,12/26/2024 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+243,3,4,12/27/2024 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+244,4,5,12/28/2024 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+245,5,2,12/29/2024 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+246,6,1,12/30/2024 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+247,1,3,12/31/2024 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+248,2,2,1/1/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+249,3,1,1/2/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+250,4,4,1/3/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+251,5,5,1/4/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+252,6,2,1/5/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+253,1,3,1/6/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+254,2,2,1/7/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+255,3,1,1/8/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+256,4,4,1/9/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+257,5,5,1/10/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+258,6,2,1/11/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+259,1,3,1/12/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+260,2,1,1/13/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+261,3,4,1/14/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+262,4,5,1/15/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+263,5,3,1/16/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+264,6,2,1/17/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+265,1,1,1/18/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+266,2,2,1/19/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+267,3,3,1/20/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+268,4,5,1/21/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+269,5,4,1/22/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+270,6,2,1/23/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+271,1,1,1/24/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+272,2,3,1/25/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+273,3,5,1/26/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+274,4,4,1/27/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+275,5,5,1/28/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+276,6,4,1/29/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+277,1,1,1/30/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+278,2,2,1/31/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+279,3,3,2/1/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+280,4,5,2/2/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+281,5,2,2/3/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+282,6,1,2/4/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+283,1,3,2/5/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+284,2,4,2/6/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+285,3,5,2/7/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+286,4,4,2/8/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+287,5,1,2/9/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+288,6,2,2/10/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+289,1,3,2/11/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+290,2,2,2/12/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+291,3,5,2/13/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+292,4,4,2/14/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+293,5,1,2/15/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+294,6,2,2/16/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+295,1,3,2/17/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+296,2,5,2/18/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+297,3,4,2/19/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+298,4,1,2/20/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+299,5,2,2/21/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+300,6,3,2/22/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+301,1,3,2/23/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+302,2,2,2/24/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+303,3,1,2/25/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+304,4,4,2/26/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+305,5,5,2/27/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+306,6,2,2/28/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+307,1,1,3/1/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+308,2,3,3/2/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+309,3,5,3/3/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+310,4,4,3/4/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+311,5,1,3/5/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+312,6,2,3/6/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+313,1,3,3/7/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+314,2,5,3/8/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+315,3,4,3/9/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+316,4,2,3/10/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+317,5,1,3/11/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+318,6,3,3/12/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+319,1,2,3/13/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+320,2,5,3/14/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Tea,10
+321,3,4,3/15/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao,15
+322,4,2,3/16/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+323,5,3,3/17/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+324,6,1,3/18/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+325,1,5,3/19/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+326,2,4,3/20/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+327,3,4,3/21/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+328,4,5,3/22/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+329,5,2,3/23/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+330,6,1,3/24/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+331,1,3,3/25/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+332,2,2,3/26/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Tea_Milk,15
+333,3,5,3/27/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+334,4,4,3/28/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+335,5,1,3/29/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+336,6,2,3/30/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+337,1,3,3/31/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+338,2,5,4/1/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+339,3,4,4/2/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+340,4,1,4/3/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+341,5,2,4/4/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+342,6,3,4/5/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+343,1,5,4/6/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+344,2,4,4/7/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+345,3,2,4/8/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+346,4,3,4/9/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+347,5,2,4/10/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+348,6,1,4/11/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+349,1,5,4/12/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+350,2,4,4/13/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+351,3,1,4/14/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+352,4,2,4/15/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+353,5,3,4/16/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+354,6,5,4/17/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+355,1,4,4/18/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+356,2,2,4/19/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+357,3,1,4/20/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+358,4,4,4/21/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+359,5,5,4/22/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+360,6,3,4/23/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+361,1,3,4/24/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+362,2,2,4/25/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+363,3,1,4/26/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+364,4,4,4/27/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+365,5,5,4/28/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+366,6,5,4/29/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+367,1,4,4/30/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+368,2,1,5/1/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+369,3,2,5/2/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao,15
+370,4,3,5/3/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+371,5,3,5/4/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+372,6,21,5/5/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+373,1,4,5/6/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+374,2,5,5/7/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+375,3,5,5/8/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+376,4,4,5/9/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+377,5,2,5/10/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+378,6,3,5/11/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+379,1,1,5/12/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+380,2,2,5/13/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+381,3,3,5/14/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+382,4,1,5/15/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+383,5,4,5/16/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+384,6,5,5/17/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+385,1,1,5/18/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+386,2,2,5/19/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+387,3,5,5/20/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+388,4,4,5/21/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+389,5,3,5/22/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+390,6,2,5/23/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+391,1,0,5/24/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+392,2,1,5/25/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+393,3,2,5/26/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+394,4,3,5/27/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+395,5,5,5/28/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+396,6,4,5/29/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+397,1,0,5/30/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+398,2,2,5/31/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+399,3,3,6/1/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+400,4,2,6/2/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+401,5,5,6/3/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+402,6,0,6/4/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+403,1,4,6/5/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+404,2,5,6/6/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+405,3,2,6/7/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+406,5,1,6/8/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+407,6,3,6/9/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+408,1,2,6/10/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+409,2,1,6/11/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+410,3,2,6/12/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+411,4,3,6/13/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+412,5,5,6/14/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+413,6,4,6/15/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+414,1,0,6/16/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+415,2,2,6/17/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+416,3,3,6/18/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+417,4,2,6/19/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+418,5,5,6/20/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+419,6,0,6/21/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+420,1,4,6/22/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+421,2,5,6/23/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+422,3,2,6/24/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+423,4,1,6/25/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+424,5,3,6/26/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+425,6,2,6/27/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+426,1,1,6/28/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+427,2,2,6/29/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+428,3,3,6/30/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+429,4,5,7/1/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+430,5,4,7/2/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+431,6,0,7/3/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+432,1,2,7/4/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+433,2,3,7/5/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+434,3,2,7/6/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+435,4,5,7/7/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+436,5,0,7/8/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+437,6,4,7/9/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+438,1,5,7/10/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+439,2,2,7/11/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+440,3,1,7/12/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+441,4,3,7/13/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+442,5,2,7/14/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+443,6,1,7/15/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+444,1,2,7/16/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+445,2,3,7/17/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+446,3,5,7/18/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+447,4,4,7/19/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+448,5,0,7/20/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+449,6,2,7/21/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+450,1,3,7/22/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+451,2,2,7/23/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+452,3,5,7/24/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+453,4,0,7/25/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+454,5,4,7/26/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+455,6,5,7/27/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+456,1,2,7/28/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+457,3,1,7/29/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+458,4,3,7/30/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+459,5,2,7/31/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+460,6,1,8/1/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+461,1,2,8/2/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+462,2,3,8/3/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+463,3,5,8/4/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+464,4,4,8/5/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+465,5,0,8/6/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+466,6,2,8/7/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+467,1,3,8/8/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+468,2,2,8/9/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+469,4,5,8/10/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+470,5,0,8/11/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+471,6,4,8/12/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+472,1,5,8/13/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+473,2,2,8/14/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+474,3,1,8/15/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+475,4,3,8/16/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+476,5,2,8/17/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+477,6,1,8/18/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+478,1,2,8/19/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+479,2,3,8/20/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+480,3,5,8/21/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+481,4,4,8/22/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+482,5,0,8/23/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+483,6,2,8/24/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+484,1,3,8/25/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+485,2,2,8/26/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+486,3,5,8/27/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+487,4,0,8/28/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+488,5,4,8/29/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+489,6,5,8/30/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+490,1,2,8/31/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+491,2,1,9/1/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+492,3,3,9/2/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+493,4,2,9/3/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+494,5,1,9/4/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+495,6,2,9/5/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+496,1,3,9/6/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+497,2,5,9/7/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+498,3,4,9/8/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+499,4,0,9/9/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+500,5,2,9/10/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+501,6,3,9/11/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+502,1,2,9/12/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+503,2,5,9/13/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Nescaffee black,15
+504,3,0,9/14/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+505,4,4,9/15/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+506,5,5,9/16/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+507,6,2,9/17/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+508,1,1,9/18/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+509,2,3,9/19/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+510,3,2,9/20/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+511,4,1,9/21/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+512,5,2,9/22/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+513,6,3,9/23/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+514,1,5,9/24/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+515,2,4,9/25/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+516,3,0,9/26/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+517,4,2,9/27/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+518,5,3,9/28/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+519,6,2,9/29/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+520,1,5,9/30/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+521,2,0,10/1/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+522,3,4,10/2/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Cacao_Milk,20
+523,4,5,10/3/2025 8:45,20,Nescafee,"This drink contains 100 calories, 3 grams of fat, 12 grams of carbs, 1 grams of fiber, 5 grams of protein, and 120 milligrams of sodium.",Tea,10
+524,5,2,10/4/2025 8:45,15,Cacao,"This drink contains 150 calories, 8 grams of fat, 15 grams of carbs, 5 grams of fiber, 4 grams of protein, and 50 milligrams of sodium.",Tea_Milk,15
+525,6,1,10/5/2025 8:45,20,Cacao_Milk,"This drink contains 200 calories, 10 grams of fat, 20 grams of carbs, 5 grams of fiber, 6 grams of protein, and 100 milligrams of sodium.",Nescafee,20
+526,1,3,10/6/2025 8:45,10,Tea,"This drink contains 2 calories, 10 grams of fat, 0 grams of carbs, 0 grams of fiber, 0 grams of protein, and 0 milligrams of sodium.",Nescaffee black,15
+527,2,2,10/7/2025 8:45,15,Tea_Milk,"This drink contains 50 calories, 2 grams of fat, 8 grams of carbs, 0 grams of fiber, 3 grams of protein, and 25 milligrams of sodium.",Cacao,15
+528,3,1,10/8/2025 8:45,15,Nescaffee black,"This drink contains 80 calories, 3 grams of fat, 10 grams of carbs, 0 grams of fiber, 1 grams of protein, and 100 milligrams of sodium.",Nescafee,20
