@@ -41,18 +41,7 @@ def predict_drink(data:BankNote):
     prediction = classifier.predict([[UserId,ProductId,Rating,price]])
 
     
-    if(prediction[0]==0):
-        prediction="Cacao"
-    elif(prediction[0]==1):
-        prediction="Cacao_Milk"
-    elif(prediction[0]==2):
-        prediction="'Nescafee"  
-    elif(prediction[0]==3):
-        prediction="Nescaffee black"      
-    elif(prediction[0]==4):
-        prediction="Tea"    
-    elif(prediction[0]==5):
-        prediction="Tea_Milk"    
+   
     return {
         'prediction': prediction
     }
