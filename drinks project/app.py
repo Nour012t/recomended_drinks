@@ -1,11 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Nov 17 21:40:41 2020
+Created on Wed Nov 18 13:07:51 2020
 
 @author: win10
 """
+#pip install fastapi uvicorn
 
 # 1. Library imports
+import uvicorn ##ASGI
+from fastapi import FastAPI
 import uvicorn
 from fastapi import FastAPI
 from BankNotes import BankNote
@@ -14,11 +17,17 @@ import pickle
 import pandas as pd
 # 2. Create the app object
 app = FastAPI()
+
+
+
+# 2. Create the app object
+app = FastAPI()
 pickle_in = open("classifier.pkl","rb")
 classifier=pickle.load(pickle_in)
 
-# 3. Index route, opens automatically on http://127.0.0.1:8000
 
+# 3. Expose the prediction functionality, make a prediction from the passed
+#    JSON data and return the predicted Bank Note with the confidence
 @app.post('/predict')
 def predict_drink(data:BankNote):
     data = data.dict()
@@ -30,7 +39,18 @@ def predict_drink(data:BankNote):
     prediction = classifier.predict([[UserId,ProductId,Rating,price]])
 
     
-   
+    if(prediction[0]==0):
+        prediction=0
+    elif(prediction[0]==1):
+        prediction=1
+    elif(prediction[0]==2):
+        prediction=2  
+    elif(prediction[0]==3):
+        prediction=3      
+    elif(prediction[0]==4):
+        prediction=4   
+    elif(prediction[0]==5):
+        prediction=5   
     return {
         'prediction': prediction
     }
@@ -108,4 +128,11 @@ async def process_data_endpoint():
     processed_data = process_data()
     return {"processed_data": processed_data}
 
-#uvicorn app:app --reload
+
+# 5. Run the API with uvicorn
+#    Will run on http://127.0.0.1:8000
+if __name__ == '__main__':
+    uvicorn.run(app, host='127.0.0.1', port=8000)
+#uvicorn main:app --reload
+
+
